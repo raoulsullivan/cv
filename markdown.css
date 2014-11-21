@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    color: #2B1B17;
+}
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+h2 {
+    color: #15317E;
+}
+h2:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: .1em;
+    margin-bottom: .2em;
+    background-color: #15317E;
+}
+h3 {
+    font-size: 1em;
+    margin-bottom: 0px;
+}
+ul {
+    margin-top:0px;
+    margin-bottom:5px;
+}
